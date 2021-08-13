@@ -1,1 +1,1 @@
-# CallCenter
+# CallCenter implementation without tests.
